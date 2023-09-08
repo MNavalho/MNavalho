@@ -1,10 +1,11 @@
 ### Hi there 👋
 Welcome to my Github Profile
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/02841a457ec7ae172cd5b3126499a1fdae771612f194747e22df7662d2dbaedf/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067">
+ <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/02841a457ec7ae172cd5b3126499a1fdae771612f194747e22df7662d2dbaedf/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067">
+ <img alt="test image" src="https://camo.githubusercontent.com/02841a457ec7ae172cd5b3126499a1fdae771612f194747e22df7662d2dbaedf/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067">
 </picture>
+
 
 <!--
 **MNavalho/MNavalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
