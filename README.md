@@ -1,5 +1,11 @@
 ### Hi there 👋
 Welcome to my Github Profile
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fpriyaranjankumar%2F051eef758814e64902f213da8ca0d54e&psig=AOvVaw1IW94bVzRfT6nvXdMTf9nO&ust=1694298521410000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiisIGInIEDFQAAAAAdAAAAABAD">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fpriyaranjankumar%2F051eef758814e64902f213da8ca0d54e&psig=AOvVaw1IW94bVzRfT6nvXdMTf9nO&ust=1694298521410000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiisIGInIEDFQAAAAAdAAAAABAD">
+ <img alt="YOUR-ALT-TEXT" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fpriyaranjankumar%2F051eef758814e64902f213da8ca0d54e&psig=AOvVaw1IW94bVzRfT6nvXdMTf9nO&ust=1694298521410000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiisIGInIEDFQAAAAAdAAAAABAD">
+</picture>
+
 <!--
 **MNavalho/MNavalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
