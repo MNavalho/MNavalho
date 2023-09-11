@@ -1,11 +1,13 @@
 ### Hi there 👋
 Welcome to my Github Profile
+
+<!--
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/02841a457ec7ae172cd5b3126499a1fdae771612f194747e22df7662d2dbaedf/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067">
  <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/02841a457ec7ae172cd5b3126499a1fdae771612f194747e22df7662d2dbaedf/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067">
  <img alt="test image" src="https://camo.githubusercontent.com/02841a457ec7ae172cd5b3126499a1fdae771612f194747e22df7662d2dbaedf/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067">
 </picture>
-
+<!--
 
 <!--
 **MNavalho/MNavalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<!--
